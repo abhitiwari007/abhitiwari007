@@ -1,7 +1,8 @@
-
+![logo](https://github.com/abhitiwari007/abhitiwari007/blob/main/github-header-image-3.png)
 # Hi there 👋, My name is AbhishekTiwari
 
 IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, HTML/CSS, data analytics. Seeking entry-level roles. Let's innovate together!
+
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Netflix Clone</p>
@@ -9,6 +10,7 @@ IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, 
 <p>I regularly write articles on <a href="">https://github.com/abhitiwari007</a></p>
 <p>Know about my experiences <a href="https://drive.google.com/file/d/1WVkcucrD5JvfQoyBgp6zuCrmFn_fmSaL/view?usp=sharing">here</a></p>
 <p>⚡ Fun Fact: I am Funny</p>
+<img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ## 💻 Skills
 <p>
