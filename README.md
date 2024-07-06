@@ -5,7 +5,7 @@ IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, 
 
 
 ## 💫 Liitle Bit More About Me
-<img align="right" width="225"  src="https://github.com/abhitiwari007/abhitiwari007/blob/main/giphy-2.webp">
+<img align="right" width="215"  src="https://github.com/abhitiwari007/abhitiwari007/blob/main/giphy-2.webp">
 <p>🔭 I'm currently working on Netflix Clone</p>
 <p>📫 How to reach me? abhishektiwari182002@gmail.com</p>
 <p>I regularly write articles on <a href="">https://github.com/abhitiwari007</a></p>
