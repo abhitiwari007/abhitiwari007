@@ -8,7 +8,6 @@ IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, 
 <img align="right" width="215"  src="https://github.com/abhitiwari007/abhitiwari007/blob/main/giphy-2.webp">
 <p>🔭 I'm currently working on Netflix Clone</p>
 <p>📫 How to reach me? abhishektiwari182002@gmail.com</p>
-<p>I regularly write articles on <a href="">https://github.com/abhitiwari007</a></p>
 <p>Know about my experiences <a href="https://drive.google.com/file/d/1WVkcucrD5JvfQoyBgp6zuCrmFn_fmSaL/view?usp=sharing">here</a></p>
 <p>⚡ Fun Fact: I am Funny</p>
 
@@ -27,7 +26,7 @@ IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, 
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-tiwari18032002/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/abhishek-tiwari18032002/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.kaggle.com/abhii1802"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
