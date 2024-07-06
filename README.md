@@ -28,7 +28,7 @@ IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, 
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-tiwari18032002/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/work"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.kaggle.com/abhii1802"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
