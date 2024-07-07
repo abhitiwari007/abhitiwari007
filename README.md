@@ -1,12 +1,15 @@
 ![logo](https://github.com/abhitiwari007/abhitiwari007/blob/main/github-header-image-3.png)
 # Hi there 👋, My name is AbhishekTiwari
 
+<img align="center" width="400" src="https://github.com/abhitiwari007/abhitiwari007/blob/main/giphy-2.webp">
+
 IT graduate passionate about tech & innovation. Proficient in Python, SQL, AWS, HTML/CSS, data analytics. Seeking entry-level roles. Let's innovate together!
 
 # 💫 About Me:
-🔭 I’m currently working on : Netflix Clone <br>🌱 I’m currently learning : AWS And Linux <br>
-<p>📫 How to reach me? abhishektiwari182002@gmail.com</p>⚡ Fun fact : I am Funny 🤣
-<p>Know about my experiences <a href="https://drive.google.com/file/d/1WVkcucrD5JvfQoyBgp6zuCrmFn_fmSaL/view?usp=sharing">here</a></p>
+🔭 I’m currently working on : Netflix Clone 
+<br>🌱 I’m currently learning : AWS And Linux<br>
+⚡ Fun fact : I am Funny 🤣
+<p>👀Know about my experiences <a href="https://drive.google.com/file/d/1WVkcucrD5JvfQoyBgp6zuCrmFn_fmSaL/view?usp=sharing">here</a></p>
 
 
 ## 🌐 Socials:
